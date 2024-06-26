@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+ <dictionary>
+  <string role="key" value="_title"></string>
+  <unicode value="Concurso de saberes."></unicode>
+  <string role="key" value="idevices"></string>
+  <list></list>
+  <string role="key" value="_addAccessibilityToolbar"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addPagination"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addSearchBox"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_author"></string>
+  <unicode value="Jorge Mario Grijalba Ibarra y Cristian Lasso"></unicode>
+  <string role="key" value="_backgroundImg"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextMode"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextPlace"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_description"></string>
+  <unicode value="Concurso de saberes"></unicode>
+  <string role="key" value="_docType"></string>
+  <string value="HTML5"></string>
+  <string role="key" value="_exportElp"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_extraHeadContent"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_fieldValidationInfo"></string>
+  <dictionary>
+   <unicode role="key" value="all"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_title"></unicode>
+     <unicode value="pp_lang"></unicode>
+     <unicode value="pp_description"></unicode>
+     <unicode value="pp_author"></unicode>
+     <unicode value="pp_newlicense"></unicode>
+    </list>
+   </dictionary>
+   <unicode role="key" value="procomun"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_learningResourceType"></unicode>
+    </list>
+    <unicode role="key" value="values_from_list"></unicode>
+    <dictionary>
+     <unicode role="key" value="pp_learningResourceType"></unicode>
+     <list>
+      <unicode value="master class"></unicode>
+      <unicode value="closed exercise or problem"></unicode>
+      <unicode value="real project"></unicode>
+      <unicode value="didactic game"></unicode>
+      <unicode value="webquest"></unicode>
+      <unicode value="open problem"></unicode>
+      <unicode value="simulation"></unicode>
+      <unicode value="questionnaire"></unicode>
+      <unicode value="conceptual map"></unicode>
+     </list>
+    </dictionary>
+   </dictionary>
+  </dictionary>
+  <string role="key" value="_intendedEndUserRoleGroup"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleTutor"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleType"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_isChanged"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_isTemplate"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_lang"></string>
+  <unicode value="es"></unicode>
+  <string role="key" value="_learningResourceType"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_levelNames"></string>
+  <list>
+   <unicode value="Topic"></unicode>
+   <unicode value="Section"></unicode>
+   <unicode value="Unit"></unicode>
+  </list>
+  <string role="key" value="_name"></string>
+  <unicode value="Concurso_de_saberes_"></unicode>
+  <string role="key" value="_nextIdeviceId"></string>
+  <int value="0"></int>
+  <string role="key" value="_nextNodeId"></string>
+  <int value="49"></int>
+  <string role="key" value="_nodeIdDict"></string>
+  <dictionary>
+   <unicode role="key" value="48"></unicode>
+   <instance class="exe.engine.node.Node" reference="4">
+    <dictionary>
+     <string role="key" value="_title"></string>
+     <unicode value="Concurso de saberes."></unicode>
+     <string role="key" value="idevices"></string>
+     <list>
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="TriviExt"></unicode>
+        <string role="key" value="_attributes"></string>
+        <list>
+         <tuple>
+          <string value="title"></string>
+          <list>
+           <string value="Title"></string>
+           <int value="0"></int>
+           <int value="0"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="category"></string>
+          <list>
+           <string value="Category"></string>
+           <int value="0"></int>
+           <int value="1"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="css-class"></string>
+          <list>
+           <string value="CSS class"></string>
+           <int value="0"></int>
+           <int value="2"></int>
+          </list>
+         </tuple>
+         <tuple>
+          <string value="icon"></string>
+          <list>
+           <string value="Icon"></string>
+           <int value="0"></int>
+           <int value="3"></int>
+          </list>
+         </tuple>
+        </list>
+        <string role="key" value="_author"></string>
+        <string value=""></string>
+        <string role="key" value="_iDeviceDir"></string>
+        <string value="trivial-activity"></string>
+        <string role="key" value="_purpose"></string>
+        <string value=""></string>
+        <string role="key" value="_tip"></string>
+        <string value=""></string>
+        <string role="key" value="_typeName"></string>
+        <unicode value="TriviExt"></unicode>
+        <string role="key" value="_valid"></string>
+        <bool value="1"></bool>
+        <string role="key" value="class_"></string>
+        <unicode value="trivial"></unicode>
+        <string role="key" value="edit"></string>
+        <bool value="0"></bool>
+        <string role="key" value="emphasis"></string>
+        <int value="1"></int>
+        <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+        <int value="1"></int>
+        <string role="key" value="fields"></string>
+        <list>
+         <instance class="exe.engine.field.TextAreaField" reference="3">
+          <dictionary>
+           <string role="key" value="_id"></string>
+           <unicode value="756_2"></unicode>
+           <string role="key" value="_idevice"></string>
+           <reference key="1"></reference>
+           <string role="key" value="_instruc"></string>
+           <string value=""></string>
+           <string role="key" value="_name"></string>
+           <string value=""></string>
+           <string role="key" value="anchor_names"></string>
+           <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
+           <string role="key" value="content_w_resourcePaths"></string>
+           <unicode content="true" value="&lt;div class=&quot;trivial-IDevice&quot;&gt;&lt;div class=&quot;trivial-instructions&quot;&gt;&lt;p&gt;En los grupos conformados en la actividad anterior, lanzarán el dado y contestarán a la pregunta seleccionada, ganará el equipo que caiga primero en cada uno de los cuatro cuadros de las esquinas y responda correctamente las preguntas contenidas en cada uno de ellos. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Advertencia:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Si se llegase a acabar el tiempo y ningún equipo ha salido ganador, se dará por ganador a quien más puntos registre, considerando que al equipo que ganó la actividad previa se le sumarán 7 puntos. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Si el equipo ganador de la actividad previa cae en tres diferentes cuadros de la esquina y contesta correctamente a las preguntas contenidas en ellos, se dará a este equipo por ganador debido a la ventaja que ganó. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Recuerda que las preguntas versan sobre El ensayo filosófico &quot;Sobre el estudiar y el estudiante&quot;, los cuentos expuestos en la sesión pasada y la teoría vista en este recurso.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;trivial-DataGame js-hidden&quot;&gt;{&quot;asignatura&quot;:&quot;&quot;,&quot;author&quot;:&quot;&quot;,&quot;authorVideo&quot;:&quot;&quot;,&quot;typeGame&quot;:&quot;Trivial&quot;,&quot;endVideo&quot;:0,&quot;idVideo&quot;:&quot;&quot;,&quot;startVideo&quot;:&quot;&quot;,&quot;instructionsExe&quot;:&quot;%3Cp%3EEn%20los%20grupos%20conformados%20en%20la%20actividad%20anterior%2C%20lanzar%E1n%20el%20dado%20y%20contestar%E1n%20a%20la%20pregunta%20seleccionada%2C%20ganar%E1%20el%20equipo%20que%20caiga%20primero%20en%20cada%20uno%20de%20los%20cuatro%20cuadros%20de%20las%20esquinas%20y%20responda%20correctamente%20las%20preguntas%20contenidas%20en%20cada%20uno%20de%20ellos.%A0%3C/p%3E%0A%3Cp%3E%3Cem%3E%3Cstrong%3EAdvertencia%3A%3C/strong%3E%3C/em%3E%3C/p%3E%0A%3Cp%3E%3Cem%3ESi%20se%20llegase%20a%20acabar%20el%20tiempo%20y%20ning%FAn%20equipo%20ha%20salido%20ganador%2C%20se%20dar%E1%20por%20ganador%20a%20quien%20m%E1s%20puntos%20registre%2C%20considerando%20que%20al%20equipo%20que%20gan%F3%20la%20actividad%20previa%20se%20le%20sumar%E1n%207%20puntos.%A0%3C/em%3E%3C/p%3E%0A%3Cp%3E%3Cem%3ESi%20el%20equipo%20ganador%20de%20la%20actividad%20previa%20cae%20en%20tres%20diferentes%20cuadros%20de%20la%20esquina%20y%20contesta%20correctamente%20a%20las%20preguntas%20contenidas%20en%20ellos%2C%20se%20dar%E1%20a%20este%20equipo%20por%20ganador%20debido%20a%20la%20ventaja%20que%20gan%F3.%A0%3C/em%3E%3C/p%3E%0A%3Cp%3E%3Ci%3ERecuerda%20que%20las%20preguntas%20versan%20sobre%20El%20ensayo%20filos%F3fico%20%22Sobre%20el%20estudiar%20y%20el%20estudiante%22%2C%20los%20cuentos%20expuestos%20en%20la%20sesi%F3n%20pasada%20y%20la%20teor%EDa%20vista%20en%20este%20recurso.%3C/i%3E%3C/p%3E%0A%3Cp%3E%3C/p%3E&quot;,&quot;instructions&quot;:&quot;Lanza el dado y contesta a la pregunta hasta completar todos los quesos. &quot;,&quot;showMinimize&quot;:false,&quot;optionsRamdon&quot;:true,&quot;answersRamdon&quot;:true,&quot;showSolution&quot;:false,&quot;timeShowSolution&quot;:6,&quot;useLives&quot;:false,&quot;numberLives&quot;:3,&quot;itinerary&quot;:{&quot;showClue&quot;:false,&quot;clueGame&quot;:&quot;&quot;,&quot;percentageClue&quot;:100,&quot;showCodeAccess&quot;:true,&quot;codeAccess&quot;:&quot;DIGICRITICO&quot;,&quot;messageCodeAccess&quot;:&quot;INGRESA CÓDIGO DE ACCESO&quot;},&quot;numeroTemas&quot;:4,&quot;nombresTemas&quot;:[&quot;Nivel de lectura literal.&quot;,&quot;Nivel de lectura inferencial&quot;,&quot;Nivel de lectura crítico&quot;,&quot;Teoría.&quot;,&quot;Tema 5&quot;,&quot;Tema 6&quot;],&quot;temas&quot;:[[{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Ortega y Gasset expresa que para que sea verdad la tesis sobre que el estudiar sea falso no es suficiente con que solo algunos aspectos de lo que se supone es estudiar sean falsos, sino que todos los aspectos por completo deben ser falsos.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MjM5Qg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;Necesidad.&quot;,&quot;Majestuosidad.&quot;,&quot;Lo relacionado con un ministerio.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;En el contexto del ensayo filosófico titulado Sobre el estudiar y elestudiante de Ortega y Gasset, ¿por cuál otra palabra se podría intercambiar \&quot;menesterosidad\&quot; sin que pierda el significado empleado por el autor en el texto en cuestión?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MjM4QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;A una necesidad que nace con la persona.&quot;,&quot;A una necesidad que surge de manera rápida.&quot;,&quot;A una necesidad que le es impuesta a la persona.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;¿A qué se refiere Ortega y Gasset con el término necesidad inmediata?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;NjlB&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Para Ortega y Gasset por estudiante se entiende comunmente a un ser humano a quien la vida le impone la necesidad de estudiar ciencias por las que este no ha sentido  una necesidad genuina.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTg5QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;A algo que se puede evitar.&quot;,&quot;A estar dentro de un éxodo.&quot;,&quot;A algo que no se puede evitar.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Cuando Ortega y Gasset dice que estudiar y ser estudiante es siempre una necesidad \&quot;inexorable\&quot; del ser humano, ¿a qué se refiere con la palabra \&quot;inexorable\&quot;?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTU4Qw==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;A algo que produce gran asombro.&quot;,&quot;A algo que produce vergüenza.&quot;,&quot;A alguna droga o sustancia psicoativa.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Ortega y Gasset argumenta que el estudiar es falso y que esa afirmación puede ser \&quot;estupefaciente\&quot;, ¿a qué se refiere con la palabra estupefaciente?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTQ4QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso.&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Ortega y Gasset dice que para entender verdaderamente algo es necesario tener saberes previos y no tanto necesitar ese saber.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTI1Qg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;}],[{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;El estudiar es una falsedad porque se obliga al estudiante a sentir una necesidad que no es auténtica. Por tanto, debería reformarse la educación para enseñar principalmente necesidades auténticas de saber.&quot;,&quot;El estudiar es una falsedad porque se obliga al estudiante a sentir una necesidad que le es innata. Por tanto, debería reformarse la educación para enseñar principalmente necesidades auténticas de saber&quot;,&quot;El estudiar es una falsedad porque se obliga al estudiante a sentir una necesidad que no es auténtica. Sin embargo, ello no implica que no se deba enseñar.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;De las siguientes opciones, ¿cuál refleja de mejor manera el resumen del texto Sobre el estudiar y el estudiante?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTEzQQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;\&quot;La solución a tan crudo y bicorne problema se desprende de todo lo que he dicho: no consiste en decretar que no se estudie, sino en reformar profundamente ese hacer humano que es el estudiar y, consecuentemente, el ser del estudiante\&quot;&quot;,&quot;\&quot;Las técnicas se pueden enseñar mecánicamente. Pero las técnicas viven del saber, y si éste no se puede enseñar, llegará una hora en que también las técnicas sucumbirán\&quot;&quot;,&quot;\&quot;Estudiar y ser estudiante es siempre, y sobre todo hoy, una necesidad inexorable del hombre\&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;En el contexto del texto Sobre el estudiar y el estudiante, ¿cuál de las siguientes frases representa una conclusión respecto de la proposición sobre que el estudiar es algo falso?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTgwQQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;Enseñar desde la necesidad&quot;,&quot;La falsedad del estudiar: una estrategia de la auténcia necesidad de saber.&quot;,&quot;La falsedad del estudiar: un artificio de la auténcia necesidad de saber.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;De las siguientes opciones, ¿cuál sería otro título apropiado al texto \&quot;Sobre el estudiar y el estudinate\&quot; conforme a la idea general desarrollada en este?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTU1Qw==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;\&quot;Pero el hombre por sí mismo no sería nunca estudiante, como el hombre por sí mismo no sería nunca contribuyente. Tiene que pagar contribuciones, tiene que estudiar, pero no es ni contribuyente ni estudiante.\&quot;&quot;,&quot;\&quot;Las técnicas se pueden enseñar mecánicamente. Pero las técnicas viven del saber, y si éste no se puede enseñar, llegará una hora en que también las técnicas sucumbirán\&quot;&quot;,&quot;\&quot;Hay estudiantes que sienten profundamente la necesidad de resolver ciertos problemas que son los constitutivos de tal o cual ciencia\&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;En el contexto del texto Sobre el estudiar y el estudiante, ¿cuál de las siguientes frases representa una proposición a favor de la idea sobre que el estudiar sea algo falso?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTc0QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;\&quot;Pero el hombre por sí mismo no sería nunca estudiante, como el hombre por sí mismo no sería nunca contribuyente. Tiene que pagar contribuciones, tiene que estudiar, pero no es ni contribuyente ni estudiante.\&quot;&quot;,&quot;\&quot;Las técnicas se pueden enseñar mecánicamente. Pero las técnicas viven del saber, y si éste no se puede enseñar, llegará una hora en que también las técnicas sucumbirán\&quot;&quot;,&quot;\&quot;Hay estudiantes que sienten profundamente la necesidad de resolver ciertos problemas que son los constitutivos de tal o cual ciencia\&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;En el contexto del texto Sobre el estudiar y el estudiante, ¿cuál de las siguientes frases representa una proposición en contra de la idea sobre que el estudiar sea algo falso?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTc2Qw==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;Ensayo filosófico porque su autor es un filósofo.&quot;,&quot;Ensayo filosófico porque plantea una tesis y el desarrollo de la misma a través de proposiciones y llega  una conclusión. Además, busca que el lector reflexione de modo profundo sobre su experiencia.&quot;,&quot;Evidencia científica porque plantea una tesis y el desarrollo de la misma a través de proposiciones y llega a una conclusión. Además, busca que el lector reflexione de modo profundo sobre su experiencia.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;El texto \&quot;Sobre el estudiar y el estudiante\&quot; fue en realidad un curso realizado por Ortega y Gasset, sin embargo este texto también se puede considerar como un&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTU5Qg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;}],[{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:1,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;Planteamiento de la tesis&quot;,&quot;Respuesta a las objeciones&quot;,&quot;Desarrollo de las proposiciones&quot;,&quot;Conclusión&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Selecciona el orden en que el autor desarrollar su argumento en el texto Sobre el estudiar y el estudiante.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTA3QUNCRA==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;Responde a objeciones y se apoya en evidencias científicas.&quot;,&quot;Responde a objeciones y realiza preguntas reflexivas.&quot;,&quot;Responde a objeciones y se apoya en citas de otros autores.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Además de plantear una tesis y desarrollar proposiciones, ¿qué otras estrategias utiliza el autor del texto \&quot;Sobre el estudiar y el estudiante\&quot; para enriquecer su argumento.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTczQg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:4,&quot;n&quot;:3,&quot;o&quot;:[&quot;Un deseo que deriva en una proposición.&quot;,&quot;Ninguna de las anteriores.&quot;,&quot;Una proposición que deriva en un deseo.&quot;,&quot;&quot;],&quot;p&quot;:1,&quot;q&quot;:&quot;En la anterior frase se presenta:&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MzNB&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;}],[{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;Modo de lectura en que el lector reflexiona a partir de un texto y evalúa su contenido.&quot;,&quot;Modo de lectura en que el lector identifica información local de un texto y la entiende tal y como aparece escrita en el contexto del texto.&quot;,&quot;Modo de lectura en que el lector comprende un texto en un sentido global, recuperando información de distintas partes del mismo y a su vez la relaciona con sus saberes previos.&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;¿Qué significa el nivel de lectura crítico?&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;NDNB&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Modo de lectura en que el lector recupera información de distintas partes del texto para darle un sentido global al mismo. Generalmente relaciona la información del texto con sus saberes previos.&quot;,&quot;r&quot;:&quot;JTIwTml2ZWwlMjBkZSUyMGxlY3R1cmElMjBpbmZlcmVuY2lhbC4=&quot;,&quot;s&quot;:&quot;MTk1&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Modo de lectura en que el lector reflexiona a partir de un texto y evalúa su contenido.&quot;,&quot;r&quot;:&quot;Tml2ZWwlMjBkZSUyMGxlY3R1cmElMjBjciVFRHRpY28u&quot;,&quot;s&quot;:&quot;ODc=&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Responde si es verdadera o falsa la siguiente afirmación: Para realizar un resumen es necesario hacer siempre un juicio crítico.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTI4Qg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Responde si la siguiente afirmación es verdadera o falsa: Cuando leemos algo profundamente solemos utilizar los tres niveles de lectura de manera espontánea.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTU3QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Proceso mediante el cual se dice en nuestras propias palabras lo que aparece en una parte de un texto sin alterar su sentido original.&quot;,&quot;r&quot;:&quot;UGFyJUUxZnJhc2lz&quot;,&quot;s&quot;:&quot;MTM0&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Puede entenderse como aquello que aclara el significado de un texto y se relaciona con la información del texto como del lector del mismo.&quot;,&quot;r&quot;:&quot;Q29udGV4dG8=&quot;,&quot;s&quot;:&quot;MTM4&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:1,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:3,&quot;o&quot;:[&quot;Nivel de lectura crítica&quot;,&quot;Nivel de lectura literal.&quot;,&quot;Nivel de lectura inferencial&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Selecciona primero el nivel de lectura inferior, luego el que contine al inferior, y finalmente el que contiene a los dos niveles anteriores.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTQxQkNB&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Verdadero&quot;,&quot;Falso&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Responde si la siguiente afirmación es verdadera o falsa: Hacer un juicio crítico equivale a valorar negativamente algo.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTIwQg==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:2,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Afirmación que hace el autor en un texto de algo que considera verdadero.&quot;,&quot;r&quot;:&quot;UHJvcG9zaWNpJUYzbg==&quot;,&quot;s&quot;:&quot;NzM=&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:2,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Negación que hace un autor de un texto de algo que considera falso&quot;,&quot;r&quot;:&quot;UHJvcG9zaWNpJUYzbg==&quot;,&quot;s&quot;:&quot;NjY=&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:0,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:2,&quot;o&quot;:[&quot;Falso&quot;,&quot;Verdadero&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Responde si la siguiente afirmación es verdadera o falsa: la diferencia entre los textos literarios y los textos informativos está en que los primeros informan y los segundos entretienen.&quot;,&quot;r&quot;:&quot;&quot;,&quot;s&quot;:&quot;MTg3QQ==&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:2,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Capacidad para leer en diferentes niveles&quot;,&quot;r&quot;:&quot;TGVjdHVyYSUyMGNyJUVEdGljYQ==&quot;,&quot;s&quot;:&quot;NDE=&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Casi toda secuencia de palabras.&quot;,&quot;r&quot;:&quot;VGV4dG8=&quot;,&quot;s&quot;:&quot;MzI=&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;},{&quot;a&quot;:&quot;&quot;,&quot;b&quot;:0,&quot;c&quot;:2,&quot;d&quot;:0,&quot;f&quot;:0,&quot;g&quot;:35,&quot;h&quot;:&quot;&quot;,&quot;i&quot;:1,&quot;j&quot;:1,&quot;m&quot;:3,&quot;n&quot;:4,&quot;o&quot;:[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;p&quot;:0,&quot;q&quot;:&quot;Proceso mediante el cual un lector construye el significado de un texto relacionándolo con el contexto del texto mismo como del lector para responder a diversos fines.&quot;,&quot;r&quot;:&quot;TGVjdHVyYQ==&quot;,&quot;s&quot;:&quot;MTY3&quot;,&quot;t&quot;:&quot;&quot;,&quot;u&quot;:&quot;&quot;,&quot;x&quot;:0,&quot;y&quot;:0,&quot;z&quot;:0,&quot;ad&quot;:&quot;&quot;}]],&quot;isScorm&quot;:0,&quot;textButtonScorm&quot;:&quot;Guardar la puntuación&quot;,&quot;repeatActivity&quot;:false,&quot;title&quot;:&quot;&quot;,&quot;customScore&quot;:false,&quot;textAfter&quot;:&quot;&quot;,&quot;msgs&quot;:{&quot;msgStartGame&quot;:&quot;Pulse aquí para empezar&quot;,&quot;msgSubmit&quot;:&quot;Enviar&quot;,&quot;msgEnterCode&quot;:&quot;Introduzca el código de acceso&quot;,&quot;msgErrorCode&quot;:&quot;El código de acceso no es correcto&quot;,&quot;msgGameOver&quot;:&quot;¡Fin de la partida!&quot;,&quot;msgClue&quot;:&quot;¡Genial! La pista es:&quot;,&quot;msgNewGame&quot;:&quot;Pulse aquí para empezar otra partida&quot;,&quot;msgCodeAccess&quot;:&quot;Código de acceso&quot;,&quot;msgPlayStart&quot;:&quot;Pulse aquí para jugar&quot;,&quot;msgMinimize&quot;:&quot;Minimizar&quot;,&quot;msgMaximize&quot;:&quot;Maximizar&quot;,&quot;msgTime&quot;:&quot;Tiempo por pregunta&quot;,&quot;msgFullScreen&quot;:&quot;Pantalla Completa&quot;,&quot;msgExitFullScreen&quot;:&quot;Salir del modo pantalla completa&quot;,&quot;msgNoImage&quot;:&quot;Pregunta sin imágenes&quot;,&quot;msgSuccesses&quot;:&quot;¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!&quot;,&quot;msgFailures&quot;:&quot;¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!&quot;,&quot;msgNotNetwork&quot;:&quot;A este juego sólo se puede jugar con conexión a internet.&quot;,&quot;msgQuestion&quot;:&quot;Pregunta&quot;,&quot;msgAnswer&quot;:&quot;Comprobar&quot;,&quot;msgInformation&quot;:&quot;Información&quot;,&quot;msgAuthor&quot;:&quot;Autoría&quot;,&quot;msgActityComply&quot;:&quot;Ya ha realizado esta actividad.&quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Puede realizar esta actividad cuantas veces quiera&quot;,&quot;msgYouLastScore&quot;:&quot;La última puntuación guardada es&quot;,&quot;msgOption&quot;:&quot;Opción&quot;,&quot;msgImage&quot;:&quot;Imagen&quot;,&quot;msgOrders&quot;:&quot;Ordena todas las respuestas&quot;,&quot;msgIndicateWord&quot;:&quot;Proporcione una palabra o expresión&quot;,&quot;msgGameStarted&quot;:&quot;El juego ya ha comenzado.&quot;,&quot;msgPlayersName&quot;:&quot;Debes indicar un nombre para todos los jugadores seleccionados.&quot;,&quot;msgReboot&quot;:&quot;¿Deseas reiniciar el juego?&quot;,&quot;msgRoolDice&quot;:&quot;lanza el dado.&quot;,&quot;msgsWinner&quot;:&quot;El juego ha terminado. El ganador es %1. ¿Deseas volver a jugar?&quot;,&quot;msgWinGame&quot;:&quot;¡Genial! Ganas la partida.&quot;,&quot;msgsYouPlay&quot;:&quot;tú juegas. Lanza el dado.&quot;,&quot;msgSaveDiceAuto&quot;:&quot;Su puntuación se guardará automáticamente tras cada tirada.&quot;,&quot;msgOnlyFirstGame&quot;:&quot;Sólo puede jugar una vez.&quot;,&quot;msgGamers&quot;:&quot;Jugadores&quot;,&quot;msgReply&quot;:&quot;Responder&quot;,&quot;msgErrorQuestion&quot;:&quot;has fallado.&quot;,&quot;msgGetQueso&quot;:&quot;consigues el queso de&quot;,&quot;msgRightAnswre&quot;:&quot;Un punto más.&quot;,&quot;msgAudio&quot;:&quot;Audio&quot;,&quot;msgCorrect&quot;:&quot;Correcto&quot;,&quot;msgIncorrect&quot;:&quot;Incorrecto&quot;,&quot;msgUncompletedActivity&quot;:&quot;Actividad no completada&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Actividad superada. Puntuación: %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Actividad no superada. Puntuación: %s&quot;,&quot;msgNext&quot;:&quot;Siguiente&quot;,&quot;msgTypeGame&quot;:&quot;Curiosidad&quot;,&quot;msgRestart&quot;:&quot;Reiniciar&quot;},&quot;trivialID&quot;:1714397612301,&quot;version&quot;:2,&quot;modeBoard&quot;:false,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;&quot;,&quot;id&quot;:&quot;2024429134246300&quot;}&lt;/div&gt;&lt;a href=&quot;resources/Captura_de_pantalla_2024-05-10_120725.png&quot; class=&quot;js-hidden trivial-LinkImages-2&quot;&gt;2&lt;/a&gt;&lt;div class=&quot;trivial-bns js-hidden&quot;&gt;Su navegador no es compatible con esta herramienta.&lt;/div&gt;&lt;/div&gt;"></unicode>
+           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+           <int value="4"></int>
+           <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+           <int value="3"></int>
+           <string role="key" value="htmlTag"></string>
+           <string value="div"></string>
+           <string role="key" value="images"></string>
+           <instance class="exe.engine.galleryidevice.GalleryImages">
+            <dictionary>
+             <string role="key" value=".listitems"></string>
+             <list>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="39737"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="754_756_2.6"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="5">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="Captura_de_pantalla_2024-05-10_120725.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\asus\\appdata\\local\\temp\\tmpt30jv8\\Captura_de_pantalla_2024-05-10_120725.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="4ed67dc79b706fd2f1278e3cf9447e57"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+             </list>
+             <string role="key" value="idevice"></string>
+             <reference key="3"></reference>
+            </dictionary>
+           </instance>
+           <string role="key" value="intlinks_to_anchors"></string>
+           <dictionary></dictionary>
+           <string role="key" value="nextImageId"></string>
+           <int value="7"></int>
+           <string role="key" value="parentNode"></string>
+           <reference key="4"></reference>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="icon"></string>
+        <unicode value=""></unicode>
+        <string role="key" value="id"></string>
+        <unicode value="754"></unicode>
+        <string role="key" value="ideviceCategory"></string>
+        <unicode value="Games"></unicode>
+        <string role="key" value="lastIdevice"></string>
+        <bool value="0"></bool>
+        <string role="key" value="nextFieldId"></string>
+        <int value="3"></int>
+        <string role="key" value="originalicon"></string>
+        <string value=""></string>
+        <string role="key" value="parentNode"></string>
+        <reference key="4"></reference>
+        <string role="key" value="systemResources"></string>
+        <list></list>
+        <string role="key" value="undo"></string>
+        <bool value="1"></bool>
+        <string role="key" value="userResources"></string>
+        <list>
+         <reference key="5"></reference>
+        </list>
+        <string role="key" value="version"></string>
+        <int value="0"></int>
+       </dictionary>
+      </instance>
+     </list>
+     <string role="key" value="_id"></string>
+     <unicode value="48"></unicode>
+     <string role="key" value="_package"></string>
+     <reference key="2"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
+     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+     <int value="2"></int>
+     <string role="key" value="exportType"></string>
+     <string value="scorm"></string>
+     <string role="key" value="last_full_node_path"></string>
+     <string value="exe-node:Concurso%20de%20saberes."></string>
+     <string role="key" value="parent"></string>
+     <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
+     <string role="key" value="children"></string>
+     <list></list>
+    </dictionary>
+   </instance>
+  </dictionary>
+  <string role="key" value="_objectives"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_preknowledge"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_templateFile"></string>
+  <string value=""></string>
+  <string role="key" value="anchor_nodes"></string>
+  <list></list>
+  <string role="key" value="backgroundImgTile"></string>
+  <bool value="0"></bool>
+  <string role="key" value="currentNode"></string>
+  <reference key="4"></reference>
+  <string role="key" value="dublinCore"></string>
+  <instance class="exe.engine.package.DublinCore">
+   <dictionary>
+    <string role="key" value="contributors"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="coverage"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="creator"></string>
+    <unicode value="Jorge Mario Grijalba Ibarra y Cristian Lasso"></unicode>
+    <string role="key" value="date"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="description"></string>
+    <unicode value="Concurso de saberes"></unicode>
+    <string role="key" value="format"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="identifier"></string>
+    <unicode value="61d08da4-9597-48a3-a2db-1785dbb441a5"></unicode>
+    <string role="key" value="language"></string>
+    <unicode value="es"></unicode>
+    <string role="key" value="publisher"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="relation"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="rights"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="source"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="subject"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="title"></string>
+    <unicode value="Concurso de saberes."></unicode>
+    <string role="key" value="type"></string>
+    <unicode value=""></unicode>
+   </dictionary>
+  </instance>
+  <string role="key" value="exe.engine.package.Package.persistenceVersion"></string>
+  <int value="16"></int>
+  <string role="key" value="exportMetadataType"></string>
+  <string value="LOMES"></string>
+  <string role="key" value="exportSource"></string>
+  <bool value="1"></bool>
+  <string role="key" value="footer"></string>
+  <string value=""></string>
+  <string role="key" value="isLoading"></string>
+  <bool value="0"></bool>
+  <string role="key" value="license"></string>
+  <unicode value="creative commons: attribution - non commercial - share alike 4.0"></unicode>
+  <string role="key" value="lom"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Concurso de saberes"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="Mi catálogo"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="61d08da4-9597-48a3-a2db-1785dbb441a5"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Concurso de saberes."></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="6">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2024-05-18T16:14:45.00-05:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="7">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Jorge Mario Grijalba Ibarra y Cristian Lasso EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="8">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="6"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="7"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="8"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOMv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <none></none>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="yes"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="lomEs"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Concurso de saberes"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="Mi catálogo"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="61d08da4-9597-48a3-a2db-1785dbb441a5"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Concurso de saberes."></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="9">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2024-05-18T16:14:45.00-05:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="10">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Jorge Mario Grijalba Ibarra y Cristian Lasso EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="11">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="9"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="10"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="11"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOM-ESv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <instance class="exe.engine.lom.lomsubs.accessSub">
+       <dictionary>
+        <string role="key" value="accessType"></string>
+        <instance class="exe.engine.lom.lomsubs.accessTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="accessType"></string>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.accessTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="universal"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <string role="key" value="description"></string>
+        <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="Preestablecido"></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="access"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="creative commons: attribution - non commercial - share alike"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="rights"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="mxmlforcemediaonly"></string>
+  <bool value="0"></bool>
+  <string role="key" value="mxmlheight"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlprofilelist"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlwidth"></string>
+  <string value=""></string>
+  <string role="key" value="release"></string>
+  <string value="2.9"></string>
+  <string role="key" value="resources"></string>
+  <dictionary>
+   <string role="key" value="4ed67dc79b706fd2f1278e3cf9447e57"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
+  </dictionary>
+  <string role="key" value="root"></string>
+  <reference key="4"></reference>
+  <string role="key" value="scolinks"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowsinglepage"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowwebsite"></string>
+  <bool value="0"></bool>
+  <string role="key" value="style"></string>
+  <unicode value="kids"></unicode>
+  <string role="key" value="sugaractivityname"></string>
+  <string value=""></string>
+  <string role="key" value="sugarservicename"></string>
+  <string value=""></string>
+  <string role="key" value="tempFile"></string>
+  <bool value="0"></bool>
+ </dictionary>
+</instance>
